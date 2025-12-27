@@ -50,20 +50,6 @@ form.addEventListener('submit', e => {
 });
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 //     let puan = 0;
 //     const bastir = setInterval(()=>{
 
@@ -82,7 +68,8 @@ form.addEventListener('submit', e => {
 
 // })
 
-// önemli içerisindeki yazmış olduğumuz kod 1 kere çalışır.
+// ÖNEMLİ
+// içerisindeki yazmış olduğumuz kod 1 kere çalışır.
 // setTimeout(()=>{
 //     console.log('Can');
 // },2000)
